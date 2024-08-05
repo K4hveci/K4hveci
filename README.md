@@ -1,7 +1,10 @@
-##                               WELCOME TO MY VERY COOL (maybe) PROFILE
-## Hi, my name is 👋 what?
-## My name is 👋 who?
-## My name is 👋 chka-chka
+###                     WELCOME TO MY VERY COOL (maybe) PROFILE
+## Hi, my name is 👋
+# what?
+## My name is 👋 
+# who?
+## My name is 👋 
+# chka-chka
 
 ##        K4hveci or Wafflest or efe or ef for short
 
