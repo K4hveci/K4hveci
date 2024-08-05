@@ -1,9 +1,6 @@
 <h1 align="center"> 🌟WELCOME TO MY VERY COOL (maybe) PROFILE🌟 </h1>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://open.spotify.com/intl-tr/track/75IN3CtuZwTHTnZvYM4qnJ?si=9c5147d3f7954ab4"></iframe>
-
-
-[![Spotify](https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg)](https://open.spotify.com/intl-tr/track/75IN3CtuZwTHTnZvYM4qnJ?si=9c5147d3f7954ab4)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75IN3CtuZwTHTnZvYM4qnJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Hi, my name is 👋
 # what?
