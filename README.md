@@ -1,4 +1,5 @@
-###                     WELCOME TO MY VERY COOL (maybe) PROFILE
+<h1 align="center"> 🌟WELCOME TO MY VERY COOL (maybe) PROFILE🌟 </h1>
+
 ## Hi, my name is 👋
 # what?
 ## My name is 👋 
@@ -8,6 +9,9 @@
 
 ##        K4hveci or Wafflest or efe or ef for short
 
+I like cyber security and physical tools using for cyber security.
+Currently a student of Computer Engineering.
+Mental Health ~~Matters~~
 <!--
 **K4hveci/K4hveci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
