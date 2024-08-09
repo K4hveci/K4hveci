@@ -7,7 +7,7 @@
 ## My name is 👋 
 # chka-chka
 
-##        K4hveci or Wafflest or efe or ef for short
+##        K4hveci or efe
 
 I like cyber security and physical tools using for cyber security.
 Currently a student of Computer Engineering.
