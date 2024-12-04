@@ -1,4 +1,4 @@
-<h1 align="center"> 🌟WELCOME TO MY VERY COOL (maybe) PROFILE🌟 </h1>
+<h1 align="center"> 🌟WELCOME TO MY VERY COOL PROFILE🌟 </h1>
 
 ## Hi, my name is 👋
 # what?
