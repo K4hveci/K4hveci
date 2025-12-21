@@ -11,7 +11,6 @@
 
 OSTİMTECH
 
-I like cyber security and physical tools using for cyber security.
 Currently a student of Computer Engineering.
 Mental Health ~~Matters~~
 <!--
@@ -28,5 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Cyber Security, Network and Python
-- 😄 Pronouns: ryan/gosling (literally me)
