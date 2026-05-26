@@ -11,6 +11,6 @@ $$ | \$$\       $$ |$$ |  $$ |  \$  /   \$$$$$$$\ \$$$$$$$
 ```
 <p align="center">
   <a href="https://k4hveci.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/☕_K4HVECI.GITHUB.IO-Sitemi_Ziyaret_Et-8B4513?style=for-the-badge" alt="k4hveci web site" height="50"/>
+    <img src="https://img.shields.io/badge/☕_K4HVECI.GITHUB.IO-Check my Insanity-8B4513?style=for-the-badge" alt="k4hveci web site" height="50"/>
   </a>
 </p>
